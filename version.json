@@ -1,0 +1,9 @@
+{
+    "latest": 18,
+    "version": "0.0.3 Release",
+    "script_url": "https://github.com/ToTWill/arztools/raw/refs/heads/main/update/arztools.lua",
+    "changes": [
+        "test",
+        "test"
+    ]
+}
