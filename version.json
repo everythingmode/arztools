@@ -1,6 +1,6 @@
 {
-    "latest": 229,
-    "version": "1.0 Release",
+    "latest": 228,
+    "version": "1.0.1 Release",
     "script_url": "https://github.com/everythingmode/arztools/raw/refs/heads/main/arztools.luac",
     "changes": [
         "test",
