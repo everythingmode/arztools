@@ -1,7 +1,7 @@
 
 {
     "latest": 228,
-    "version": "1.2 Release",
+    "version": "1.1 Release",
     "script_url": "https://github.com/everythingmode/arztools/raw/refs/heads/main/arztools.luac",
     "changes": [
         "Полностью обновлено окно настройки репорта, теперь они более интуитивно-понятные, и не распиханы по разным разделам скрипта. Помимо этого добавлена функция демо-репорта, оно поможет наглядно настраивать ответы",
